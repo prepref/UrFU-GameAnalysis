@@ -45,7 +45,7 @@
 - Запустить Jupyter Notebook
 - Создать папку, а в ней файл, где мы напишем и запустим первую программу, которая выводит "Hello world!"
 
-![Image alt](https://github.com/prepref/UrFU-GameAnalisys/raw/main/C:/different/GitHub-screenshots/PythonWork1.png)
+![Image alt](https://github.com/prepref/UrFU-GameAnalisys/raw/main/github-screenshots/PythonWork1.png)
 
 ## Задание 2
 ### Написать программу Hello World на C# с запуском на Unity.
@@ -54,7 +54,7 @@
 - Создать новый 3D проект
 - Создать 3D обьект, написать к ниму скрипт на C#, который выводит в консоль Hello world!
 
-![Image alt](https://github.com/prepref/UrFU-GameAnalisys/raw/main/C:/different/GitHub-screenshots/C#Work1.png)
+![Image alt](https://github.com/prepref/UrFU-GameAnalisys/raw/main/github-screenshots/C#Work1.png)
 
 ## Задание 3
 ### Оформить отчет в виде документации на github (markdown-разметка).
