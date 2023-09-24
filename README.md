@@ -54,7 +54,7 @@
 - Создать новый 3D проект
 - Создать 3D обьект, написать к ниму скрипт на C#, который выводит в консоль Hello world!
 
-![Image alt](https://github.com/prepref/UrFU-GameAnalysis/raw/main/github-screenshots/C#Work1.png)
+![Image alt](https://github.com/prepref/UrFU-GameAnalysis/raw/main/github-screenshots/C%23Work1.png)
 
 ## Задание 3
 ### Оформить отчет в виде документации на github (markdown-разметка).
